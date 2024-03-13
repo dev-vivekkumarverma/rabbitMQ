@@ -3,5 +3,5 @@ it contains :
 ```
 - competing consumer problem
 - routing (topic based message exchange)
-- pub-sub medel (message broadcasting)
+- pub-sub medel /message broadcasting (fanout exchange of the message)
 ```

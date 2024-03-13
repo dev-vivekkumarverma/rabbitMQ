@@ -1,0 +1,5 @@
+EXCHANGE="message-router-exchange"
+PAYMENT_ROUTING_KEY="#.payment"
+ORDER_ROUTING_KEY="#.order.#"
+INDIAN_ROUTING_KEY="indian.#"
+GENERAL_ROUTING_KEY="#"
